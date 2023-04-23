@@ -5,8 +5,6 @@
 + FTB Ultimine
 + Per Aspera
 + Sodium
-+ Chat Heads
-+ Season HUD
 + Measurements
 + Travelers Backpack
 + MoreCosmetics
