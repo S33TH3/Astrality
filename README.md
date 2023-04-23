@@ -9,6 +9,11 @@
 + Easy Villagers
 + Season HUD
 + Measurements
++ CreativeCore
++ ItemPhysics FULL
++ Travelers Backpack
++ MoreCosmetics
++ Show Me Your Skin
 
 # Installing
 1. setup the create: astral modpack which can be found here: https://www.curseforge.com/minecraft/modpacks/create-astral
