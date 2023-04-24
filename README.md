@@ -1,7 +1,6 @@
 # Additions
 + EntityCulling
 + FTB Ultimine
-+ Sodium
 + Measurements
 + Travelers Backpack
 + MoreCosmetics
