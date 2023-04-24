@@ -1,9 +1,6 @@
 # Additions
-+ Architectury
-+ Create Fabric
 + EntityCulling
 + FTB Ultimine
-+ Per Aspera
 + Sodium
 + Measurements
 + Travelers Backpack
