@@ -18,4 +18,4 @@
 3. go to your create: astral modpack files
 (can be found in gdlauncher by right clicking the modpack and clicking open folder)
 
-3. replace the mods folder with the folder from the repo
+4. drag the mods from our google drive into the create: astral mods folder
